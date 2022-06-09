@@ -73,7 +73,7 @@ for i,j in enumerate(np.unique(y_Set)):
 ```
 
 ## Output:
-![logistic regression using gradient descent](lr.png)
+![logistic regression using gradient descent](https://github.com/Pallavi-Raveendranadreddy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/6422da5782b70cf9ad70163a667d6cec8d7e1b21/lr.PNG)
 
 
 ## Result:
